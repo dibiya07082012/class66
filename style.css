@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+
+}
+
+h1
+{
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+
+}
+
+#app
+{
+    background-color: lightcoral;
+}
+
+#game
+{
+    background-color: lightseagreen;
+}
+
+.line
+{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
